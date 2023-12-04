@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LathenDesigns
+- 👋 Hi, I’m Lathen. 
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning html, css.
+- 🌱 I’m currently learning html, css, and java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: LathenDesigns@gmail.com
 
