@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lathen. 
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning html, css, and java.
+- 👀 I’m interested in front-end and back-end development.
+- 🌱 I’m currently learning html, css, and javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: LathenDesigns@gmail.com
 
