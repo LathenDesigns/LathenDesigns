@@ -5,8 +5,8 @@
 - 📫 How to reach me: LathenDesigns@gmail.com
 
 Currently working on: 
-1) Front-end website development for Yellow Wood Farm Angoras (code clean up, and gallery add on) 
-2) ARG Website (in planning stage)
+1) Front-end website development for Yellow Wood Farm Angoras (figuring out how to transfer to hosting site) 
+2) ARG Website (currently on hold)
 
 Programs Used:
 1) Github desktop
